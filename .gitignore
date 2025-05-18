@@ -22,6 +22,7 @@ yarn-error.log
 .vscode/
 *.swp
 *.swo
+windsurf_deployment.yaml
 
 # OS generated files
 .DS_Store
@@ -31,3 +32,6 @@ yarn-error.log
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Local Netlify folder
+.netlify
